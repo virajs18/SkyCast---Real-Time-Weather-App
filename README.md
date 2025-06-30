@@ -18,7 +18,7 @@ A beautiful, responsive weather application built with React, TypeScript, and Ta
 
 ## 🚀 Live Demo
 
-Visit the live application: [SkyCast Weather App](https://amazing-crepe-2ac8a3.netlify.app)
+Visit the live application: [SkyCast Weather App](https://skycast18.netlify.app)
 
 ## 🛠️ Technologies Used
 
